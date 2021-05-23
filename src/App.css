@@ -1,0 +1,34 @@
+.app-wrapper {
+	max-width: 1200px;
+	margin: 0 auto;
+	display: grid;
+	grid-template-columns: 1fr 5fr;
+	grid-template-rows: 60px 1fr;
+	grid-gap: 10px;
+	grid-template-areas: 
+	"header header"
+	"nav cont";
+}
+
+.header {
+	grid-area: header;
+	background-color: rgb(223, 139, 139);
+}
+
+.header img {
+	height: 60px;
+}
+
+.nav {
+	grid-area: nav;
+	background-color: rgb(138, 216, 131);
+}
+
+.content {
+	grid-area: cont;
+	background-color: rgb(113, 141, 202);
+}
+
+.content img {
+	width: 100%;
+}
