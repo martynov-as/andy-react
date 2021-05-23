@@ -12,10 +12,7 @@ const Profile = () => {
 					<div>
 					New post
 					</div>
-				<div>
-					<div>
-						tttttt
-					</div>
+				<div>					
 					<div>
 						Post 1
 						</div>
