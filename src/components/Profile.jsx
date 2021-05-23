@@ -14,9 +14,6 @@ const Profile = () => {
 					</div>
 				<div>
 					<div>
-						rrrrrruuuuuu
-					</div>
-					<div>
 						Post 1
 						</div>
 					<div>
