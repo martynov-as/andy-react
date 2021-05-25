@@ -10,25 +10,8 @@
 	"nav cont";
 }
 
-.header {
-	grid-area: header;
-	background-color: rgb(223, 139, 139);
-}
-
-.header img {
-	height: 60px;
-}
-
-.nav {
-	grid-area: nav;
-	background-color: rgb(138, 216, 131);
-}
-
-.content {
+.app-wrapper-content {
 	grid-area: cont;
 	background-color: rgb(113, 141, 202);
 }
 
-.content img {
-	width: 100%;
-}
